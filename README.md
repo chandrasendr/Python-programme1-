@@ -1,1 +1,1 @@
-# .py/ .ipynb files for used learning ML and AI 
+# .py/ .ipynb files used for learning ML and AI 
